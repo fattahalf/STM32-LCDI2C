@@ -1,0 +1,7 @@
+LCDI2C.c:14:6:LCD_initID	16	static
+LCDI2C.c:18:6:LCD_sendCMD	32	static
+LCDI2C.c:30:6:LCD_sendData	32	static
+LCDI2C.c:42:6:LCD_Clear	16	static
+LCDI2C.c:49:6:LCD_Init	8	static
+LCDI2C.c:72:6:LCD_sendSTR	16	static
+LCDI2C.c:76:6:LCD_setCursor	24	static
